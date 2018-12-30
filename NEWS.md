@@ -1,3 +1,5 @@
+* Built site
+
 # regex4impala 0.1.1
 
 * Updated installtion method
