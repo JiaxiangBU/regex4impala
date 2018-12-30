@@ -1,3 +1,5 @@
+* Updated installtion method
+
 # regex4impala 0.1.0
 
 * Added `one_or_plus`.

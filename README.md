@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+
 # regex4impala
 
 The goal of regex4impala is to write regular expression in impala.
@@ -12,6 +14,17 @@ You can install the released version of regex4impala from
 
 ``` r
 install.packages("regex4impala")
+```
+
+You can install the released version of add2md from
+[Github](https://github.com/JiaxiangBU/add2md) with:
+
+``` r
+devtools::install_github('JiaxiangBU/regex4impala')
+```
+
+``` r
+library(regex4impala)
 ```
 
 ## Example

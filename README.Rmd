@@ -22,9 +22,20 @@ The goal of regex4impala is to write regular expression in impala.
 
 You can install the released version of regex4impala from [CRAN](https://CRAN.R-project.org) with:
 
-``` r
+```{r eval=F}
 install.packages("regex4impala")
 ```
+
+You can install the released version of add2md from [Github](https://github.com/JiaxiangBU/add2md) with:
+
+```{r eval=F}
+devtools::install_github('JiaxiangBU/regex4impala')
+```
+
+```{r eval=F}
+library(regex4impala)
+```
+
 
 ## Example
 
