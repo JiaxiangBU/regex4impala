@@ -1,3 +1,5 @@
+# regex4impala 0.1.1
+
 * Updated installtion method
 
 # regex4impala 0.1.0
