@@ -1,3 +1,5 @@
+* Added `one_or_plus`.
+
 # regex4impala 0.0.1
 
 * Added badge
