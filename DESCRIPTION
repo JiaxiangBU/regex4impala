@@ -1,8 +1,8 @@
 Package: regex4impala
-Title: What the Package Does (one line, title case)
+Title: Regular expression for Impala.
 Version: 0.1.2
 Authors@R: person("Jiaxiang", "Li", role = c("aut", "cre"), email = "alex.lijiaxiang@foxmail.com"),
-Description: What the package does (one paragraph).
+Description: The goal of regex4impala is to write regular expression in Impala.
 Depends: R (>= 3.5.1)
 License: GPL-3
 Encoding: UTF-8
