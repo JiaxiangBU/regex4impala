@@ -1,7 +1,7 @@
 # regex4impala 0.1.2
 
 * Built site
-* Updated title and 
+* Updated title and desc
 
 # regex4impala 0.1.1
 
