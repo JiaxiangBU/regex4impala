@@ -1,12 +1,16 @@
 Package: regex4impala
-Title: Regular expression for Impala.
+Title: Regular expression for Impala
 Version: 0.1.2
-Authors@R: person("Jiaxiang", "Li", role = c("aut", "cre"), email = "alex.lijiaxiang@foxmail.com"),
+Authors@R: person("Jiaxiang", "Li", role = c("aut", "cre"), email = "alex.lijiaxiang@foxmail.com")
 Description: The goal of regex4impala is to write regular expression in Impala.
-Depends: R (>= 3.5.1)
+Depends: R (>= 3.5.0)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
 URL: https://github.com/JiaxiangBU/regex4impala
 BugReports: https://github.com/JiaxiangBU/regex4impala/issues
+Imports: 
+    magrittr,
+    rebus,
+    stringr

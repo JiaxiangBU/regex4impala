@@ -1,3 +1,5 @@
+* fix bugs in the check process
+
 # regex4impala 0.1.2
 
 * Built site

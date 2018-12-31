@@ -6,6 +6,9 @@
 \usage{
 one_or_plus(x)
 }
+\arguments{
+\item{x}{input.}
+}
 \value{
 Character.
 }
