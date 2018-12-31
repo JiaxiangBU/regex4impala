@@ -1,3 +1,5 @@
+# regex4impala 0.1.3
+
 * fix bugs in the check process
 
 # regex4impala 0.1.2
