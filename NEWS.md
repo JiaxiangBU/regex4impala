@@ -1,3 +1,8 @@
+* Ready to release.
+
+>
+package regex4impala_0.1.4.tar.gz has been auto-processed and is pending a manual inspection. A CRAN team member will typically respond to you within the next 5 working days. For technical reasons you may receive a second copy of this message when a team member triggers a new check.
+
 # regex4impala 0.2.0
 
 * Updated pkgdown files into build-ignore file.
