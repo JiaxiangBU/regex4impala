@@ -1,3 +1,5 @@
+# regex4impala 0.2.0
+
 * Updated pkgdown files into build-ignore file.
 * Created cran-comments file.
 * Added examples and finished [Github Issue 7](https://github.com/JiaxiangBU/regex4impala/issues/7)
