@@ -1,3 +1,11 @@
+* Updated title
+```
+  The Title field should be in title case. Current version is:
+  'Regular expression for Impala'
+  In title case that is:
+  'Regular Expression for Impala'
+```
+
 # regex4impala 0.1.3
 
 * fix bugs in the check process

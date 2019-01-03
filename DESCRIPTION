@@ -1,5 +1,5 @@
 Package: regex4impala
-Title: Regular expression for Impala
+Title: Regular Expression for Impala
 Version: 0.1.3
 Authors@R: person("Jiaxiang", "Li", role = c("aut", "cre"), email = "alex.lijiaxiang@foxmail.com")
 Description: The goal of regex4impala is to write regular expression in Impala.
