@@ -1,3 +1,6 @@
+^docs$
+^cran-comments\.md$
+^CRAN-RELEASE$
 ^LICENSE\.md$
 ^CODE_OF_CONDUCT\.md$
 ^README\.Rmd$

@@ -8,6 +8,8 @@
 #' @import rebus
 #' @importFrom stringr str_detect
 #' @export
+#' @examples
+#' one_or_plus("a")
 
 one_or_plus <- function(x){
     if (!is.character(x)) {

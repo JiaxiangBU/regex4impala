@@ -15,6 +15,9 @@ Character.
 \description{
 One or more regular expression.
 }
+\examples{
+one_or_plus("a")
+}
 \author{
 Jiaxiang Li
 }
